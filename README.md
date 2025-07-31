@@ -1,8 +1,9 @@
-<h1>Amigo secreto</h1>
+<h1>💻 Amigo secreto</h1>
 
 <h2>📝 Sobre </h2>
 <p> - O projeto foi feito para fins de aprendizado, como desafio do curso ONE.</p>
 <p> - Foi exercitado na resolução desse challenge, conceitos básicos de javascript, lógica de programação e manipulações de elementos hmtl.</p>
+<p> - Nesse projeto é possível adicionar amigos em uma lista, e sortear algum amigo para ser exibido na tela. Além disso, também possui validações para se caso for digitado um nome repetido ou se o campo de digitação ficar em branco. </p>
 
 ## 📝 Adicionando amigos para serem sorteados 
 <img width="1358" height="582" alt="image" src="https://github.com/user-attachments/assets/2933f43f-ac38-457f-afed-29c31f9fb6e2" />
